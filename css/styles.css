@@ -141,9 +141,7 @@ img {
 }
 
 .contact-link:hover,
-.contact-link:focus,
-.contact-icon:hover,
-.contact-icon:focus {
+.contact-link:focus {
   color: var(--accent-color);
 }
 
@@ -456,6 +454,7 @@ img {
 
 .social-icon {
   fill: currentColor;
+  fill: #ffffff;
 }
 
 
